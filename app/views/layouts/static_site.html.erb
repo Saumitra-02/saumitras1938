@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Ruby on Rails">
+    <title><%= content_for(:title) || "Blog" %></title>
+    <link rel="stylesheet" href="<%= @site_base_path %>/assets/application.css">
+  </head>
+
+  <body>
+    <%= yield %>
+  </body>
+</html>
