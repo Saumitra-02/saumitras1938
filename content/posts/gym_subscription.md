@@ -1,3 +1,5 @@
+# Gym Subscription
+
 ## The Problem
 
 During work sessions, I've found it very difficult to get started and, after a while, to keep going. Many times, I get distracted even before starting and end up wasting quite a bit of time.
@@ -36,6 +38,8 @@ I'm thinking of getting a gym membership and trying it out for a month.
 Instead of running along Gandhi Bhavan Road, I could do some light workouts at the gym every 1–2 hours during work sessions. Bit more private.
 
 I could also use it for morning workouts on weekends, and on weekdays, if I have the time. This may also help me get productive more quickly on weekends, as the morning workout is generally the hurdle to clear before I feel like starting my morning chores. This may also force me to bathe quicker on weekend mornings, after I return home from the gym.
+
+I also think it will make me a bit happier. I do like reading, but it does feel boring after say 2 hours at a continuous stretch. Also, it is an activity I need to compuslorily sit down and do. Sitting around all day at home feels a bit boring too, especially at EOD. Spending some time outdoors / working out makes me feel fresher.
 
 Let's see how that goes!
 
